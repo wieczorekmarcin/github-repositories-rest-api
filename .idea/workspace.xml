@@ -385,6 +385,14 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="GitRepositoryClientImplTest_whenFindRepByOwner_thenReturnTrueIfSizeMatch - 2019.12.27 at 21h 19m 20s.xml">
+      <configuration name="GitRepositoryClientImplTest.whenFindRepByOwner_thenReturnTrueIfSizeMatch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GitRepositoryClientImplTest_whenFindRepByOwnerAndRepoName_thenReturnTrueIfCloneUrlMatch - 2019.12.27 at 21h 19m 28s.xml">
+      <configuration name="GitRepositoryClientImplTest.whenFindRepByOwnerAndRepoName_thenReturnTrueIfCloneUrlMatch" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="258000" />
   </component>
