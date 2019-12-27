@@ -1,0 +1,7 @@
+com/wieczorekmarcin/githubrepositories/client/GitRepositoryClient.class
+com/wieczorekmarcin/githubrepositories/model/GitRepository.class
+com/wieczorekmarcin/githubrepositories/service/GitRepositoryServiceImpl.class
+com/wieczorekmarcin/githubrepositories/GithubRepositoriesApplication.class
+com/wieczorekmarcin/githubrepositories/client/GitRepositoryClientImpl.class
+com/wieczorekmarcin/githubrepositories/controller/GitRepositoryController.class
+com/wieczorekmarcin/githubrepositories/service/GitRepositoryService.class

@@ -1,0 +1,7 @@
+/home/marcinwieczorek/Pulpit/github-repositories-rest-api/src/main/java/com/wieczorekmarcin/githubrepositories/service/GitRepositoryServiceImpl.java
+/home/marcinwieczorek/Pulpit/github-repositories-rest-api/src/main/java/com/wieczorekmarcin/githubrepositories/client/GitRepositoryClientImpl.java
+/home/marcinwieczorek/Pulpit/github-repositories-rest-api/src/main/java/com/wieczorekmarcin/githubrepositories/GithubRepositoriesApplication.java
+/home/marcinwieczorek/Pulpit/github-repositories-rest-api/src/main/java/com/wieczorekmarcin/githubrepositories/service/GitRepositoryService.java
+/home/marcinwieczorek/Pulpit/github-repositories-rest-api/src/main/java/com/wieczorekmarcin/githubrepositories/model/GitRepository.java
+/home/marcinwieczorek/Pulpit/github-repositories-rest-api/src/main/java/com/wieczorekmarcin/githubrepositories/client/GitRepositoryClient.java
+/home/marcinwieczorek/Pulpit/github-repositories-rest-api/src/main/java/com/wieczorekmarcin/githubrepositories/controller/GitRepositoryController.java
